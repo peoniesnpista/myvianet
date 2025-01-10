@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: -70px;
+}
+.head{
+    color: #ff00b3;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 100px;
+}
+.form{
+    background-image: url(./sign.png);
+    height: 500px;
+    width: 400px;
+    margin-left: 25px;
+    border-radius: 5%;
+    padding: 10px;
+}
+.formm{
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+    margin-left: 80px;
+}
+#but{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-left: 120px;
+    border: none;
+    border-radius: 5%;
+    background-color: red;
+}
+#but:hover{
+    box-shadow: inset 5px 5px 5px rgb(223, 5, 5);
+}
+img{
+    height: 400px;
+    width: 900px;
+    margin-left: 5%;
+    border-radius: 4%;
+    margin-top: -113px;
+}
+#ci{
+    padding: 5px;
+    border: none;
+    border-radius: 7%;
+    margin-bottom: -20px;
+}
+#pss{
+    padding: 5px;
+    border: none;
+    border-radius: 7%;
+    margin-bottom: 20px;
+}
